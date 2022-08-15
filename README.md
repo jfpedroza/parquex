@@ -1,6 +1,6 @@
 # Parques
 
-Web version of the game Parqués ([again](https://github.com/johnf9896/parques)), using Websockets (Elixir, Phoenix Channels, HTML5 Canvas)
+Web version of the game Parqués ([again](https://github.com/jfpedroza/parques)), using Websockets (Elixir, Phoenix Channels, HTML5 Canvas)
 
 To start your Phoenix server:
 
